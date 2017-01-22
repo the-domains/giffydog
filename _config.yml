@@ -1,0 +1,120 @@
+layout_spectrum: 0.7283778008638816
+typography_spectrum: 0.1816685350369293
+color:
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  brandStrength: 0.45719047787294975
+  lightness: 0.9924522355651612
+  saturation: 0.6889895622320659
+  rhythmicContrast: 0.39429150423652837
+opengraph:
+  appId: 'https://www.facebook.com/Giffydog/'
+author:
+  name: Cheryl Gfrerer
+  email: giffydog@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13998b1-f3cc-4586-80f0-0989a288fa2e.png
+name: Giffydog
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Visit us on Facebook
+    url: 'https://www.facebook.com/Giffydog/'
+    type: external
+  - name: Check out our blog
+    id: aca9e99b-46c7-4d18-a609-c912179c3898
+    type: content
+title: Giffy dog
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFB_ilC3nuGs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFB_ilC3nuGs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFB_ilC3nuGs%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=FB_ilC3nuGs'
+      keywords:
+        - duration
+        - puppies
+        - views
+        - goldendoodle
+        - dogs
+        - gfrerer
+        - evynne
+        - training
+        - funny
+        - hollens
+      related: []
+      author:
+        - name: Cheryl Gfrerer
+          url: 'https://www.youtube.com/channel/UC_l0xNCpumhBAcRk5SnAquw'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: 'Working with three dogs at once--Evan, Maddie, and Tommy'
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=FB_ilC3nuGs&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=FB_ilC3nuGs&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=FB_ilC3nuGs&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=FB_ilC3nuGs&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=FB_ilC3nuGs&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=FB_ilC3nuGs'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=FB_ilC3nuGs
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=FB_ilC3nuGs
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: Uploaded by Cheryl Gfrerer on 2016-07-18.
+      inLanguage: en
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: BE the cookie!
+purpose:
+  - type: contact
+    url: 'mailto:giffydog@gmail.com'
+    label: Contact us
+github: true
