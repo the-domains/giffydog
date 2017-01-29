@@ -5,8 +5,8 @@ description: >-
   training experience. We know you work hard, and we’re committed to helping you
   build a deeper, more satisfying relationship with the dogs in your life. After
   all, training should be fun!
-dateModified: '2017-01-25T04:31:00.119Z'
-datePublished: '2017-01-25T04:31:00.602Z'
+dateModified: '2017-01-29T02:34:05.323Z'
+datePublished: '2017-01-29T02:34:06.130Z'
 title: What to expect
 author: []
 publisher: {}
@@ -25,5 +25,3 @@ _type: Article
 # What to expect
 
 At Giffy dog, we're committed to providing you with a superior, non-judmental training experience. We know you work hard, and we're committed to helping you build a deeper, more satisfying relationship with the dogs in your life. After all, training should be fun!
-
----
