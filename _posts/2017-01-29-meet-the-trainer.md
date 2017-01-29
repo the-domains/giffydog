@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-29T02:55:10.159Z'
-datePublished: '2017-01-29T02:55:10.539Z'
+dateModified: '2017-01-29T02:55:36.289Z'
+datePublished: '2017-01-29T02:55:36.887Z'
 title: Meet the trainer
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-29-meet-the-trainer.md
 starred: false
 datePublishedOriginal: '2017-01-29T02:55:10.539Z'
-sourcePath: _posts/2017-01-29-meet-the-trainer.md
 _type: Blurb
 
 ---
