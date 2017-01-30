@@ -1,16 +1,16 @@
-layout_spectrum: 0.7283778008638816
-typography_spectrum: 0.1816685350369293
+layout_spectrum: 0.5089356071652272
+typography_spectrum: 0.8671679780946694
 color:
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
-  brandStrength: 0.45719047787294975
-  lightness: 0.9924522355651612
-  saturation: 0.6889895622320659
-  rhythmicContrast: 0.39429150423652837
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  brandStrength: 0.10552609674678655
+  lightness: 0.9471348106571574
+  saturation: 0.8891212377929599
+  rhythmicContrast: 0.08673600703265777
 opengraph:
   appId: 'https://www.facebook.com/Giffydog/'
 author:
@@ -59,7 +59,6 @@ content:
         In this video, Kim learns how to add a new cue "through" to replace the
         "follow" cue when jumping through a hoop. This is a great way to build
         upon the touch cue.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
